@@ -78,7 +78,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Vishnu Swaroop P S - https://www.linkedin.com/in/vishnu-swaroop-p-s-64590b1ab/
 
-Project Link: [https://github.com/VishnuSwaroop-PS/Weather-App](https://github.com/VishnuSwaroop-PS/Weather-App)
+Project Link: https://vishnuswaroop-ps.github.io/Weather-App/
 
 ## Acknowledgements
 
