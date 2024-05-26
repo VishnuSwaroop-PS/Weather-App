@@ -1,6 +1,6 @@
 # Weather-App
 
-![Weather App](images/weather-app-banner.png)
+![Weather App](images/Weather_App_ScreenShot.png)
 
 ## Table of Contents
 - [About the Project](#about-the-project)
