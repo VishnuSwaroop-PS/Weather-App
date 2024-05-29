@@ -29,7 +29,7 @@ The Weather-App is a simple yet effective web application that provides real-tim
 
 ## Getting Started
 
-To get a local copy up and running, follow these simple steps.
+To get a local copy up and running, Follow these simple steps.
 
 ### Prerequisites
 
